@@ -37,7 +37,7 @@ class Aurus_Decryptor:
                 decrypted_data = base64.b64decode(DataToDecrypt)
                 decrypted_data = str(decrypted_data.decode('utf-8'))
             if encryptionFlag in ("05", "02") :
-                static_key = ("K@P!T0!HAP45$IUE5K" + txnDateTime)
+                static_key = ("" + txnDateTime)
                 print(f"Encrypted Data :{DataToDecrypt}")
                 try:
                     decryptText = decrypt(static_key, DataToDecrypt)
@@ -49,7 +49,7 @@ class Aurus_Decryptor:
             if encryptionFlag in ("01", "03", "06"):
                 #deviceSerialNumber = "452406755"
                 deviceSerialNumber = request.POST.get("deviceSerialNumber", "")
-                static_key = f"5UC355K3Y{deviceSerialNumber}{txnDateTime}"
+                static_key = f"{deviceSerialNumber}{txnDateTime}"
                 print(f"Encrypted Data :{DataToDecrypt}")
                 try :
                     decryptText = decrypt(static_key, DataToDecrypt)
