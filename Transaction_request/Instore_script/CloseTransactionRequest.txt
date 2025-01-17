@@ -1,0 +1,9 @@
+<CloseTransactionRequest>
+<POSID></POSID>
+<APPID></APPID>
+<CCTID></CCTID>
+<ADSDKSpecVer></ADSDKSpecVer>
+<SessionId></SessionId>
+<CloseReasonCode>TRANSACTION_COMPLETE</CloseReasonCode>
+<ClerkID>111</ClerkID>
+</CloseTransactionRequest>

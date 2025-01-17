@@ -1,0 +1,34 @@
+<TransRequest>
+    <POSID></POSID>
+    <APPID></APPID>
+    <CCTID></CCTID>
+    <ADSDKSpecVer></ADSDKSpecVer>
+    <InvoiceNumber></InvoiceNumber>
+    <CardToken></CardToken>
+    <ReferenceNumber></ReferenceNumber>
+    <ReceiptNumber>18</ReceiptNumber>
+    <ClerkID>000000551</ClerkID>
+    <CurrencyCode>840</CurrencyCode>
+    <TransactionType>01</TransactionType>
+    <SessionId></SessionId>
+    <CardPresent>Y</CardPresent>
+    <PurchaserPresent>Y</PurchaserPresent>
+    <KeyedEntryAVSFlag>N</KeyedEntryAVSFlag>
+    <GiftPurchaseAuthIndicator>N</GiftPurchaseAuthIndicator>
+    <ProcessingMode>0</ProcessingMode>
+    <CashBackFlag>1</CashBackFlag>
+    <TransAmountDetails>
+        <TenderAmount>0.00</TenderAmount>
+        <TransactionTotal>0.00</TransactionTotal>
+        <TaxAmount>0.00</TaxAmount>
+    </TransAmountDetails>
+    <TransactionDate></TransactionDate>
+    <TransactionTime></TransactionTime>
+    <TipEligible>0</TipEligible>
+    <AmountNoBar>1</AmountNoBar>
+    <OrigAurusPayTicketNum></OrigAurusPayTicketNum>
+    <OrigTransactionIdentifier></OrigTransactionIdentifier>
+    <PartialAllowed>1</PartialAllowed>
+    <ShowResponse>0</ShowResponse>
+    <ECommerceIndicator>N</ECommerceIndicator>
+</TransRequest>

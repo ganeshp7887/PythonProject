@@ -1,0 +1,13 @@
+<CancelLastTransRequest>
+    <POSID>01</POSID>
+    <APPID>01</APPID>
+    <CCTID>01</CCTID>
+    <ADSDKSpecVer>6.17.3</ADSDKSpecVer>
+    <SessionId></SessionId>
+    <ClerkID>111</ClerkID>
+    <TransactionType>76</TransactionType>
+    <ShowResponse>0</ShowResponse>
+    <MatchTimestampWithPreviousTransTimestamp></MatchTimestampWithPreviousTransTimestamp>
+    <Date></Date>
+    <Time></Time>
+</CancelLastTransRequest>

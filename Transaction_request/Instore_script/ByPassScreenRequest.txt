@@ -1,0 +1,9 @@
+<ByPassScreenRequest>
+     <ADSDKSpecVer></ADSDKSpecVer>
+     <CCTID>01</CCTID>
+     <POSID>01</POSID>
+     <APPID>01</APPID>
+     <ByPassReason>Reset</ByPassReason>
+     <ByPassOptions></ByPassOptions>
+     <SessionId>a164f07117c04e759bb662401275c045</SessionId>
+</ByPassScreenRequest>

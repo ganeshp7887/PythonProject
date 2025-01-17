@@ -1,0 +1,26 @@
+<TransRequest>
+    <POSID>D06</POSID>
+    <CCTID>06</CCTID>
+    <MerchantOrderTraceId></MerchantOrderTraceId>
+    <TransactionSequenceNumber></TransactionSequenceNumber>
+    <StoreLocationID>1</StoreLocationID>
+    <TransactionType>05</TransactionType>
+    <ADSDKSpecVer>6.14.9</ADSDKSpecVer>
+    <CardPresent>N</CardPresent>
+    <PurchaserPresent>Y</PurchaserPresent>
+    <EntrySource></EntrySource>
+    <KeyedEntryAVSFlag>N</KeyedEntryAVSFlag>
+    <GiftPurchaseAuthIndicator>N</GiftPurchaseAuthIndicator>
+    <ProcessingMode>0</ProcessingMode>
+    <CurrencyCode>840</CurrencyCode>
+    <TransAmountDetails>
+        <TransactionTotal>10.00</TransactionTotal>
+    </TransAmountDetails>
+    <InvoiceNumber></InvoiceNumber>
+    <ReceiptNumber></ReceiptNumber>
+    <ReferenceNumber></ReferenceNumber>
+    <OrigAurusPayTicketNum></OrigAurusPayTicketNum>
+    <OrigTransactionIdentifier></OrigTransactionIdentifier>
+    <TransactionDate>04282021</TransactionDate>
+    <TransactionTime>192001</TransactionTime>
+</TransRequest>

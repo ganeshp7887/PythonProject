@@ -1,0 +1,9 @@
+<GetStatusRequest>
+    <ADSDKSpecVer></ADSDKSpecVer>
+    <StatusType></StatusType>
+    <SessionId></SessionId>
+    <POSID>01</POSID>
+    <APPID>01</APPID>
+    <CCTID>01</CCTID>
+    <ClerkID>000000</ClerkID>
+</GetStatusRequest>

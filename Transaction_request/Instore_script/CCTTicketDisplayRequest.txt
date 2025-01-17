@@ -1,0 +1,25 @@
+<CCTTicketDisplayRequest>
+     <DisplayFlag>00</DisplayFlag>
+     <AllowCardReader>N</AllowCardReader>
+     <ADSDKSpecVer></ADSDKSpecVer>
+     <SessionId></SessionId>
+     <HeaderText>Please Check Product List</HeaderText>
+     <FooterText></FooterText>
+     <ButtonText1></ButtonText1>
+     <ButtonText2></ButtonText2>
+     <ButtonText3></ButtonText3>
+     <TransTotalDiscountAmt>10.00</TransTotalDiscountAmt>
+     <TransTotalQuantity>170</TransTotalQuantity>
+     <TransSubTotalAmount></TransSubTotalAmount>
+     <TaxAmount>10.00</TaxAmount>
+     <ServicesTotalAmount>0.00</ServicesTotalAmount>
+     <TransTotalAmount></TransTotalAmount>
+     <PONumber></PONumber>
+     <LanguageIndicator></LanguageIndicator>
+     <CashBackFlag>0</CashBackFlag>
+     <TransactionType></TransactionType>
+     <POSID></POSID>
+     <APPID></APPID>
+     <CCTID></CCTID>
+     <ClerkID>111</ClerkID>
+</CCTTicketDisplayRequest>

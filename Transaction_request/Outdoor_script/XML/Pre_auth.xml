@@ -1,0 +1,37 @@
+<TransRequest>
+    <ADSDKSpecVer>6.14.9</ADSDKSpecVer>
+    <MerchantOrderTraceId></MerchantOrderTraceId>
+    <POSID>D06</POSID>
+    <CCTID></CCTID>
+    <StoreLocationID>1</StoreLocationID>
+    <TransactionType>04</TransactionType>
+    <TransactionSequenceNumber></TransactionSequenceNumber>
+    <ReferenceNumber>0000007</ReferenceNumber>
+    <InvoiceNumber>0000007</InvoiceNumber>
+    <AmountNoBar>0</AmountNoBar>
+    <CardNumber></CardNumber>
+    <CardPresent>Y</CardPresent>
+    <CurrencyCode>840</CurrencyCode>
+    <EntrySource></EntrySource>
+    <GiftPurchaseAuthIndicator>N</GiftPurchaseAuthIndicator>
+    <KeyedEntryAVSFlag>N</KeyedEntryAVSFlag>
+    <ProcessingMode>0</ProcessingMode>
+    <PurchaserPresent>Y</PurchaserPresent>
+    <TaxExemptFlag>N</TaxExemptFlag>
+    <TipEligible>0</TipEligible>
+    <CardType></CardType>
+    <CardDataInfo>
+        <CardDataSource></CardDataSource>
+        <EncryptionMode></EncryptionMode>
+        <TrackData></TrackData>
+        <EMVDetailsData></EMVDetailsData>
+        <KSNBlock></KSNBlock>
+        <PINBlock></PINBlock>
+        <PinBlockMode></PinBlockMode>
+    </CardDataInfo>
+    <TransAmountDetails>
+        <TransactionTotal>0.00</TransactionTotal>
+    </TransAmountDetails>
+    <TransactionDate>03252021</TransactionDate>
+    <TransactionTime>104721</TransactionTime>
+</TransRequest>

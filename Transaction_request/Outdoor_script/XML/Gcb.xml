@@ -1,0 +1,18 @@
+<GetCardBINRequest>
+  <ADSDKSpecVer>6.14.9</ADSDKSpecVer>
+  <MerchantOrderTraceId/>
+  <POSID>D06</POSID>
+  <CCTID>0</CCTID>
+  <StoreLocationID>1</StoreLocationID>
+  <LookUpFlag>16</LookUpFlag>
+  <AllowKeyedEntry>N</AllowKeyedEntry>
+  <CardDataInfo>
+    <CardDataSource/>
+    <EncryptionMode/>
+    <TrackData/>
+    <EMVDetailsData/>
+    <PINBlock/>
+    <KSNBlock/>
+    <PinBlockMode/>
+  </CardDataInfo>
+</GetCardBINRequest>

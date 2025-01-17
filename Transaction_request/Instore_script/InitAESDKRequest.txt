@@ -1,0 +1,19 @@
+<InitAESDKRequest>
+ <POSID>01</POSID>
+ <APPID>04</APPID>
+ <CCTID>01</CCTID>
+ <ADSDKSpecVer>6.14.8</ADSDKSpecVer>
+ <SessionId>123456789</SessionId>
+ <MerchantIdentifier>100000099206</MerchantIdentifier>
+ <StoreId>101010</StoreId>
+ <TerminalId>50454898</TerminalId>
+ <ConfigFilePath>D:\Ganesh\CircleK\AESDK\UAT\AESDK v24.01.000.003\</ConfigFilePath>
+ <PEDMaps>
+     <PEDMap>
+         <LANENO>1</LANENO>
+     </PEDMap>
+     <PEDMap>
+         <LANENO>2</LANENO>
+     </PEDMap>
+ </PEDMaps>
+</InitAESDKRequest>

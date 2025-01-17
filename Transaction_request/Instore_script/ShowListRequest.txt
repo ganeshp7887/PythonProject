@@ -1,0 +1,37 @@
+<ShowListRequest>
+ <HeaderText>Please Confirm the enrollment</HeaderText>
+ <ADSDKSpecVer>6.14.8</ADSDKSpecVer>
+ <SessionId>12345</SessionId>
+ <CustomDisplay1>CustomDisplayMessage1</CustomDisplay1>
+ <CustomDisplay2>CustomDisplayMessage2</CustomDisplay2>
+ <OptionsType></OptionsType>
+ <OptionsMsgCount>4</OptionsMsgCount>
+ <ListData>
+     <Paragraph>This is Paragraph 1.</Paragraph>
+     <Paragraph>This is Paragraph 2.</Paragraph>
+ </ListData>
+ <ButtonText1>YES</ButtonText1>
+ <ButtonText2>NO</ButtonText2>
+ <ButtonText3></ButtonText3>
+ <FontStyle>0</FontStyle>
+ <ScreenTimeOut>150</ScreenTimeOut>
+ <AllowCancel>1</AllowCancel>
+ <OptionsMsg>
+     <LineItem>
+         <OptionsValue>$10</OptionsValue>
+     </LineItem>
+     <LineItem>
+         <OptionsValue>$20</OptionsValue>
+     </LineItem>
+     <LineItem>
+         <OptionsValue>$30</OptionsValue>
+     </LineItem>
+     <LineItem>
+         <OptionsValue>$40</OptionsValue>
+     </LineItem>
+ </OptionsMsg>
+ <LanguageIndicator></LanguageIndicator>
+ <POSID>01</POSID>
+ <APPID>01</APPID>
+ <CCTID>01</CCTID>
+</ShowListRequest>

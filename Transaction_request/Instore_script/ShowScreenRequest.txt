@@ -1,0 +1,26 @@
+<ShowScreenRequest>
+ <Header>Register For CircleK</Header>
+ <ADSDKSpecVer>6.14.8</ADSDKSpecVer>
+ <MessageLine1>Loyalty Program</MessageLine1>
+ <MessageLine2></MessageLine2>
+ <MessageLine3></MessageLine3>
+ <MessageLine4></MessageLine4>
+ <MessageLine5></MessageLine5>
+ <MessageLine6></MessageLine6>
+ <ShowCheckBox>0</ShowCheckBox>
+ <CheckBoxText></CheckBoxText>
+ <ActivityFlag></ActivityFlag>
+ <ButtonMsg>
+     <ButtonSizeFlag>00</ButtonSizeFlag>
+     <Button1Text>YES</Button1Text>
+     <Button2Text>NO</Button2Text>
+     <Button3Text>SKIP</Button3Text>
+ </ButtonMsg>
+ <TimeOut>150</TimeOut>
+ <LineDisplay>1</LineDisplay>
+ <SessionId></SessionId>
+ <LanguageIndicator></LanguageIndicator>
+ <POSID>01</POSID>
+ <APPID>01</APPID>
+ <CCTID>01</CCTID>
+</ShowScreenRequest>

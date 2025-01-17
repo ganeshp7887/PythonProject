@@ -1,0 +1,22 @@
+<GetUserInputRequest>
+ <Type></Type>
+ <HeaderText>Enter Phone Number</HeaderText>
+ <ADSDKSpecVer>6.14.8</ADSDKSpecVer>
+ <MessageLine1></MessageLine1>
+ <MessageLine2></MessageLine2>
+ <ButtonText1>Confirm</ButtonText1>
+ <ButtonText2>Cancel</ButtonText2>
+ <ButtonText3>Skip</ButtonText3>
+ <MinInputLimit>4</MinInputLimit>
+ <MaxInputLimit>35</MaxInputLimit>
+ <Format>1</Format>
+ <ScreenTimeOut>150</ScreenTimeOut>
+ <AllowCancel>1</AllowCancel>
+ <SessionId>12345</SessionId>
+ <LanguageIndicator></LanguageIndicator>
+ <DefaultText></DefaultText>
+ <POSID>01</POSID>
+ <APPID>01</APPID>
+ <CCTID>01</CCTID>
+ <BackgroundImage>Custom_1</BackgroundImage>
+</GetUserInputRequest>

@@ -1,0 +1,27 @@
+<SignatureRequest>
+  <TransactionIdentifier></TransactionIdentifier>
+  <SignUploadFlag>N</SignUploadFlag>
+  <SignatureData></SignatureData>
+  <HeaderLine>Please Sign</HeaderLine>
+  <ADSDKSpecVer></ADSDKSpecVer>
+  <SessionId></SessionId>
+  <CustomDisplay1>Thank You For visiting...</CustomDisplay1>
+  <CustomDisplay2>Visit Again</CustomDisplay2>
+  <SignatureType>01</SignatureType>
+  <ButtonMsg>
+  <ButtonSizeFlag>00</ButtonSizeFlag>
+  <Button1Text></Button1Text>
+  <Button2Text></Button2Text>
+  <Button3Text></Button3Text>
+  <Button4Text></Button4Text>
+  </ButtonMsg>
+  <ListData>
+  <Paragraph></Paragraph>
+  <Paragraph></Paragraph>
+  </ListData>
+  <ECAFlag></ECAFlag>
+  <LanguageIndicator></LanguageIndicator>
+  <POSID></POSID>
+  <APPID></APPID>
+  <CCTID></CCTID>
+</SignatureRequest>
